@@ -6,8 +6,8 @@ The Objective of the case study is to analyze customer reviews and predict custo
 
 Please find following files:
 
-   1.RegEx's output enclosed as 'Reviews Exploratory.xlsx'.
+    1.RegEx's output enclosed as 'Reviews Exploratory.xlsx'.
    
-   2.Required ipynb file.
+    2.Required ipynb file.
    
-   3.Provided Data and pdf.
+    3.Provided Data and pdf.
